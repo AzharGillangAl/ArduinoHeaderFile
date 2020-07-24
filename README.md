@@ -1,1 +1,1 @@
-# ArduinoHeaderFile
+# ArduinoLibraryFile
